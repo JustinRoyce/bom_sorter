@@ -1,0 +1,56 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Manufacturer,MPN,Package,Rating
+C1,1,100nF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,,603,
+"C2, C8",2,6pF,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,,,402,
+C4,1,4.7uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,,603,
+"C5, C26, C32, C35",4,100nF ,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,,603,50V
+"C6, C22, C23, C24, C25, C29, C31, C34",8,10uF ,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,,,805,50V
+"C7, C38",2,1uF,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,,603,
+"C9, C13, C15",3,10uF,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,,,805,25V
+C10,1,1uF,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,,,603,25V
+"C11, C12, C18, C19",4,4700pF,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,,,603,50V
+C14,1,100uF,CP1,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,"Polarized capacitor, US symbol",Panasonic Electronic Components,EEU-EE2C101,,160V
+"C16, C17, C20, C21",4,4.7uF,C,Capacitor_SMD:C_1210_3225Metric,Unpolarized capacitor,,,1210,100V
+C27,1,330nF ,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,,603,50V
+"C28, C33",2,8pF ,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,,,402,
+C30,1,10nF ,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,,603,50V
+"C36, C37",2,1uF ,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,,,805,
+D1,1,GREEN LED 0603,LED,LED_SMD:LED_0603_1608Metric,Light emitting diode,,,603,
+D2,1,AMBER LED 0603,LED,LED_SMD:LED_0603_1608Metric,Light emitting diode,,,603,
+"D3, D8",2,BAS316,D_ALT,Diode_SMD:D_SOD-323,"Diode, filled shape",Nexperia USA Inc.,BAS316,,
+"D4, D5, D6, D7",4,1N4148W-7-F,D_ALT,Diode_SMD:D_SOD-123,"Diode, filled shape",Diodes Incorpated,1N4148W-7-F,,
+D9,1,PESD2CAN_215,PESD2CAN_215,Package_TO_SOT_SMD:SOT-23,TVS DIODE 24V 41V SOT23,Nexperia USA Inc.,"PESD2CAN,215",,
+"J1, J2",2,1729128,1729128,Phoenix_Contacts_Custom:1729128,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Phoenix Contact,1729128,,
+J3,1,B2B-EH-A,Conn_01x02_Male,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",JST,B2B-EH-A,,
+"J4, J8",2,B5B-XH-A,Conn_01x05_Male,Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",JST,B5B-XH-A,,
+"J5, J7",2,B4B-XH-A,Conn_01x04_Male,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",JST,B2B-EH-A,,
+J6,1,B6B-XH-A,Conn_01x06_Male,Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",JST,B6B-XH-A,,
+"JP1, JP2",2,TerminatingJumper,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,"Solder Jumper, 2-pole, open",,,,
+"MH1, MH2, MH3, MH4",4,MountingHole_Pad,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,Mounting Hole with connection,,,,
+P1,1,JTAG_SWD_10_PINS,JTAG_SWD_10_PINS,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,JTAG/SWD 10 PIN CONNECTOR,,,,
+"Q1, Q2, Q3, Q4",4,SiJ482DP,SiJ482DP,Package_SO:PowerPAK_SO-8_Single,N-Channel 80 V (D-S) MOSFET,Vishay,SiJ482DP,,
+"Q5, Q6, Q7, Q8",4,BSS138,BSS138,Package_TO_SOT_SMD:SOT-23,"50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23",On Semiconductor,BSS138,,
+R1,1,0R ,R_US,Capacitor_SMD:C_0402_1005Metric,"Resistor, US symbol",,,402,
+R2,1,10K ,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+"R3, R4",2,100R ,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+R5,1,100K,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+"R6, R7, R14, R15",4,18R,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+"R8, R13",2,3.3R,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+"R9, R10, R11, R12",4,6.8R,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+"R16, R17, R18, R19, R20, R21, R22, R23, R27",9,10K,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+"R24, R25",2,3K,R_US,Resistor_SMD:R_0603_1608Metric,"Resistor, US symbol",,,603,
+R26,1,120R ,R_US,Resistor_SMD:R_2512_6332Metric,"Resistor, US symbol",,,2512,
+SW1,1,PTS525_SM15_SMTR2_LFS,PTS525_SM15_SMTR2_LFS,C&K_Custom:PTS525SM15SMTR2-LFS,SWITCH TACTILE SPST-NO 0.02A 15V,C&K,PTS525 SM15 SMTR2 LFS,,
+TP1,1,A_H_GATE_TP,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+TP2,1,A_L_Gate_TP,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+TP3,1,B_H_GATE_TP,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+TP4,1,B_L_Gate_TP,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+TP7,1,TestPoint,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+TP8,1,Debug Test Point,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+TP9,1,GND Test Point,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,test point,,,,
+U1,1,STM32G070CBT6,STM32G070CBT6,Package_QFP:LQFP-48_7x7mm_P0.5mm,"Arm® Cortex®-M0+ 32-bit MCU, 128 KB Flash, 36 KB RAM,  4x USART, timers, ADC, comm. I/Fs, 2.0-3.6V",,,,
+U2,1,MIC4606-2YTS,MIC4606-2YTS,Package_SO:TSSOP-16_4.4x5mm_P0.65mm, PWM Input Mode 85V Full-Bridge MOSFET Drivers with Adaptive Dead Time and Shoot-Through Protection,Microchip ,MIC4606-2YTS,,
+U3,1,MAX232DR,MAX232DR,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,"Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C",Texas Instruments,MAX232DR,,
+U4,1,TCAN4550RGYTQ1,TCAN4550RGYTQ1,Texas_Instruments_Custom:TCAN4550-Q1,Automotive Control Area Network Flexible Data Rate (CAN FD) Controller with Integrated Transceiver,Texas Instruments,TCAN4550RGYTQ1,,
+U5,1,AP2138N-3.3TRG1,AP2138N-3.3TRG1,Package_TO_SOT_SMD:SOT-23,Linear Voltage Regulator IC 1 Output 250mA SOT-23-3 (5V to 3.3V),Diodes Inc.,AP2138N-3.3TRG1,,
+Y1,1,TSX-3225 16.0000MF18X-AC6,Crystal_GND24,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,"Four pin crystal, GND on pins 2 and 4",SEIKO EPSON,TSX-3225 16.0000MF18X-AC6,,
+Y2,1,7R-40.000MEEC-T,Crystal_GND24,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,"Four pin crystal, GND on pins 2 and 4",TXC CORPORATION,7R-40.000MEEC-T,,
